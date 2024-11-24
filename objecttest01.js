@@ -49,5 +49,7 @@ const crew_5 = {
     Age:30,
     title:"Demon",
     job:"Archaeologist",
-    iconinc_line:() => console.log("Fools who don't respect the past are doomed to repeat it.")
+    iconinc_line:() => console.log("Fools who don't respect the past are doomed to repeat it."),
 }
+
+captain.Name();
