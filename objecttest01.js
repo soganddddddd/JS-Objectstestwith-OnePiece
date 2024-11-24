@@ -39,9 +39,9 @@ const crew_4 = {
 }
 
 const crew_5 = {
-    Name: "Nami",
-    LastName: "None",
-    Age:20,
-    title:"Cat Burglar",
-    job:"Navigator"
+    Name: "Robin",
+    LastName: "Nico",
+    Age:30,
+    title:"Demon",
+    job:"Archaeologist"
 }
