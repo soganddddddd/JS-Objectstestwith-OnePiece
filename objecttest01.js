@@ -4,7 +4,7 @@ const captain = {
     Age:19,
     title:"straw hat",
     job:"caption",
-    MostIconincLine :() =>console.log("One day im going to be the PirateKing"),
+    Iconinc_Line :()=>console.log("One day im going to be the PirateKing"),
 }
 
 const crew_1 = {
@@ -13,7 +13,7 @@ const crew_1 = {
     Age:21,
     title:"Pirate Hunter",
     job:"3sword-swordman"
-    MostIconincLine :() => console.log("")
+    iconinc_line:() => console.log("When I decided to follow my dream, I had already discarded my life")
 }
 
 const crew_2 = {
