@@ -4,6 +4,7 @@ const captain = {
     Age:19,
     title:"straw hat",
     job:"caption",
+    MostIconincLine:() =>{console.log("One day im going to be the PirateKing")}
 }
 
 const crew_1 = {
