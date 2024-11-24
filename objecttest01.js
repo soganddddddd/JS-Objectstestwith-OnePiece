@@ -40,7 +40,7 @@ const crew_4 = {
     Age:17,
     title:"IDK;(",
     job:"Doctor",
-    iconinc_line :() => console.log("I'm gonna try even harder and be helpful to everyone")
+    iconinc_line :() => console.log("I'm gonna try even harder and be helpful to everyone"),
 }
 
 const crew_5 = {
@@ -48,5 +48,6 @@ const crew_5 = {
     LastName: "Nico",
     Age:30,
     title:"Demon",
-    job:"Archaeologist"
+    job:"Archaeologist",
+    iconinc_line:() => console.log("Fools who don't respect the past are doomed to repeat it.")
 }
