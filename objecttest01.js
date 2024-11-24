@@ -12,8 +12,8 @@ const crew_1 = {
     LastName: "Rononoa",
     Age:21,
     title:"Pirate Hunter",
-    job:"3sword-swordman"
-    iconinc_line:() => console.log("When I decided to follow my dream, I had already discarded my life")
+    job:"3sword-swordman",
+    iconinc_line:() => console.log("When I decided to follow my dream, I had already discarded my life"),
 }
 
 const crew_2 = {
@@ -21,7 +21,8 @@ const crew_2 = {
     LastName: "None",
     Age:20,
     title:"Cat Burglar",
-    job:"Navigator"
+    job:"Navigator",
+    iconinc_line :() => console.log("Life is like a pencil that will surely run out, but will leave the beautiful writing of life"),
 }
 
 const crew_3 = {
