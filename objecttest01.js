@@ -30,7 +30,8 @@ const crew_3 = {
     LastName: "None",
     Age:19,
     title:"GodUssop",
-    job:"shooter - inventor"
+    job:"shooter - inventor",
+    iconinc_line:() => console.log("Man or child, strong or weak, none of those matter once you are out at sea!"),
 }
 
 const crew_4 = {
@@ -38,7 +39,8 @@ const crew_4 = {
     LastName: "Tony Tony",
     Age:17,
     title:"IDK;(",
-    job:"Doctor"
+    job:"Doctor",
+    iconinc_line :() => console.log("I'm gonna try even harder and be helpful to everyone")
 }
 
 const crew_5 = {
